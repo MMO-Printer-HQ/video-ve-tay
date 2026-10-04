@@ -1,0 +1,9 @@
+.venv/
+.superpowers/
+__pycache__/
+*.pyc
+.pytest_cache/
+output_*.mp4
+test_*.mp4
+.superpowers/
+docs/.superpowers

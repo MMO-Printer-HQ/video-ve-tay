@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620" width="600" height="620">
+  <!-- Bulb Dome -->
+  <path d="M 250,370 C 195,300 165,220 185,140 C 200,80 250,60 300,60" fill="none" stroke="#1e293b" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 300,60 C 350,60 400,80 415,140 C 435,220 405,300 350,370" fill="none" stroke="#1e293b" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Screw Base Threads -->
+  <path d="M 250,385 C 275,402 325,402 350,385" fill="none" stroke="#334155" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 253,410 C 275,427 325,427 347,410" fill="none" stroke="#334155" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 260,435 C 280,450 320,450 340,435" fill="none" stroke="#334155" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 275,450 C 285,470 315,470 325,450" fill="none" stroke="#475569" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Internal Filament -->
+  <path d="M 280,370 L 280,265" fill="none" stroke="#64748b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 320,370 L 320,265" fill="none" stroke="#64748b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 280,265 C 285,230 295,220 300,240 C 305,220 315,230 320,265" fill="none" stroke="#f59e0b" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Rays -->
+  <path d="M 300,45 L 300,15" fill="none" stroke="#fbbf24" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 385,80 L 415,55" fill="none" stroke="#fbbf24" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 435,140 L 470,125" fill="none" stroke="#fbbf24" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 455,210 L 490,210" fill="none" stroke="#fbbf24" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 425,280 L 455,305" fill="none" stroke="#fbbf24" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 215,80 L 185,55" fill="none" stroke="#fbbf24" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 165,140 L 130,125" fill="none" stroke="#fbbf24" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 145,210 L 110,210" fill="none" stroke="#fbbf24" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 175,280 L 145,305" fill="none" stroke="#fbbf24" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Sparkles -->
+  <path d="M 235,170 C 245,170 245,160 245,160 C 245,160 245,170 255,170 C 245,170 245,180 245,180 C 245,180 245,170 235,170 Z" fill="none" stroke="#f59e0b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 350,170 C 360,170 360,160 360,160 C 360,160 360,170 370,170 C 360,170 360,180 360,180 C 360,180 360,170 350,170 Z" fill="none" stroke="#f59e0b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Idea Text -->
+  <path d="M 205,500 C 215,488 230,488 225,502 C 220,518 208,540 215,548 C 220,552 232,546 238,536" fill="none" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 258,520 C 246,520 240,530 244,542 C 248,550 258,552 265,544 L 265,502 L 265,548" fill="none" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 272,534 C 286,532 290,522 284,520 C 274,518 270,530 274,544 C 278,552 292,550 298,540" fill="none" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 314,522 C 304,522 298,530 302,542 C 306,550 316,552 322,544 L 322,520 L 322,548" fill="none" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 190,565 C 250,550 330,550 390,565" fill="none" stroke="#3b82f6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 225,575 C 265,565 315,565 355,575" fill="none" stroke="#3b82f6" stroke-width="4" stroke-linecap="round"/>
+</svg>
